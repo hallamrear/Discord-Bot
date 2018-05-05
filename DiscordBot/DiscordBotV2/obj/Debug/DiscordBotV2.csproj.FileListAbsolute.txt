@@ -1,0 +1,44 @@
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\DiscordBotV2.exe.config
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\obj\Debug\DiscordBotV2.csprojResolveAssemblyReference.cache
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\DiscordBotV2.exe
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\DiscordBotV2.pdb
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\Discord.Net.dll
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\Nito.AsyncEx.dll
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\RestSharp.dll
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\WebSocket4Net.dll
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\Nito.AsyncEx.xml
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\RestSharp.xml
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\obj\Debug\DiscordBotV2.exe
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\obj\Debug\DiscordBotV2.pdb
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\memes\meme1.jpg
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\memes\meme2.jpg
+C:\Users\Hal\Documents\Dropbox\DiscordBotV2\DiscordBotV2\bin\Debug\memes\meme3.png
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\DiscordBotV2.exe.config
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\obj\Debug\DiscordBotV2.exe
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\obj\Debug\DiscordBotV2.pdb
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\memes\meme1.jpg
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\memes\meme2.jpg
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\memes\meme3.png
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\DiscordBotV2.exe
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\DiscordBotV2.pdb
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\Discord.Net.dll
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\Nito.AsyncEx.dll
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\RestSharp.dll
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\WebSocket4Net.dll
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\Nito.AsyncEx.xml
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\bin\Debug\RestSharp.xml
+C:\Users\Hal\Documents\Dropbox\pre uni\Unsorted Stuff\DiscordBotV2\DiscordBotV2\obj\Debug\DiscordBotV2.csprojResolveAssemblyReference.cache

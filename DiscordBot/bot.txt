@@ -1,0 +1,2 @@
+307912325124456451
+https://discordapp.com/api/oauth2/authorize?client_id=307912325124456451&scope=bot&permissions=0
